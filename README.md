@@ -52,6 +52,8 @@ SIM2VR provides two new components to the UitB framework -- **UnityEnv** and **U
 In the following, we demonstrate how SIM2VR can be used to generate user simulations for a given Unity application.
 As an example, we consider the Beat Saber-style game implemented in the [VR Beats Kit](https://assetstore.unity.com/packages/templates/systems/vr-beats-kit-168243), which is freely available on the Unity Asset Store.
 
+For a more detailed step-by-step guide, including additional troubleshooting and optional steps, see [this detailed guide](./guide_sim2vr_uitb.md).
+
 
 ### Step 1: Initialisation
 
